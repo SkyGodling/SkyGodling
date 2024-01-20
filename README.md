@@ -3,3 +3,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4t3pr0&layout=compact)
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.repoName)

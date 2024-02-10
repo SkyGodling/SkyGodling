@@ -8,5 +8,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k4t3pr0&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k4t3pr0&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k4t3pr0&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k4t3pr0&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k4t3pr0&theme=dark&utcOffset=8)
 

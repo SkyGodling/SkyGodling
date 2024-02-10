@@ -1,5 +1,4 @@
-### Hello, I'm Nguyen Hung Anh - also known as k4t3pr0 👋 
-<h1 align="center">Hello, I'm Nguyen Hung Anh - also known as k4t3pr0 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h1>
+### Hello, I'm Nguyen Hung Anh - also known as k4t3pr0 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 - 📝 Connect with me Telegram  https://t.me/k4t3pr0.
 - 💬 Ask me about microservices, automations, deployments, and infra.
 - 😃 Interested in Cyber Security.

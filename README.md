@@ -5,7 +5,7 @@
 - 😍 I love playing CTFs, currently playing under team [DarkArmy](https://github.com/DarkArmy-ctf)
 - 🦥 Write less, do more
 - ⚡ Fun fact **There are 24 hours in a day?**
-- 👀 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.k4t3pr0)
+- <img src="https://media.giphy.com/media/fUMc7yMll2SYjq15rQ/giphy.gif" width="50"> ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.k4t3pr0)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k4t3pr0&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k4t3pr0&theme=dark)

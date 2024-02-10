@@ -1,5 +1,5 @@
 ### Hello, I'm k4t3pr0 - also known as Nguyen Hung Anh 👋 
-- 📝 Connect with me TELEGRAM  https://t.me/k4t3pr0.
+- 📝 Connect with me Telegram  https://t.me/k4t3pr0.
 - 😃 Interested in Cyber Security.
 - 😍 I love playing CTFs, currently playing under team [DarkArmy](https://github.com/DarkArmy-ctf)
 - 👀 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.k4t3pr0)

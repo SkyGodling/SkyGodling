@@ -30,8 +30,5 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=k4t3pr0&theme=dark">
-</div>
-
-<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k4t3pr0&theme=dark&utcOffset=8">
 </div>

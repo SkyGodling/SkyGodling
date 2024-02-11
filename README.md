@@ -6,6 +6,7 @@
 
 <div align="center">
   <p>📝 Connect with me Telegram <a href="https://t.me/k4t3pr0">https://t.me/k4t3pr0</a>.</p>
+  <p><strong>📝 Connect with me Telegram <a href="https://t.me/k4t3pr0">https://t.me/k4t3pr0</a>.</strong></p>
   <p>💬 Ask me about microservices, automations, deployments, and infra.</p>
   <p>😃 Write less, do more. Interested in Cyber Security.</p>
   <p>😍 I love playing CTFs, currently playing under team <a href="https://github.com/DarkArmy-ctf">DarkArmy</a></p>

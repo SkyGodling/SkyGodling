@@ -1,5 +1,5 @@
-### <img src="https://github.com/k4t3pr0/k4t3pr0/blob/main/who%20am%20i.gif" width="250">
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndsbHBxb29jdDllejd4NjBhOTZmdXdsYXZpc2Z6cWd0cmY5dTh0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50">Hello, I'm Nguyen Hung Anh - also known as k4t3pr0!
+### <img src="https://media.giphy.com/media/dTWUjEZfDeJo6ueiUk/giphy.gif?cid=790b7611ukyp7xzdwxu9fnx6vngoy5v19q64fdf1fhyyyrgd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250">
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndsbHBxb29jdDllejd4NjBhOTZmdXdsYXZpc2Z6cWd0cmY5dTh0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50">I'm Nguyen Hung Anh - also known as k4t3pr0
 - 📝 Connect with me Telegram  https://t.me/k4t3pr0.
 - 💬 Ask me about microservices, automations, deployments, and infra.
 - 😃 Interested in Cyber Security.

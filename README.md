@@ -5,10 +5,11 @@
 ### <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndsbHBxb29jdDllejd4NjBhOTZmdXdsYXZpc2Z6cWd0cmY5dTh0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50">I'm Nguyen Hung Anh - also known as k4t3pr0</div>
 
 <div align="center">
-  <p>📝 Connect with me Telegram <a href="https://t.me/k4t3pr0">https://t.me/k4t3pr0</a>.</p>
   <p><strong>📝 Connect with me Telegram <a href="https://t.me/k4t3pr0">https://t.me/k4t3pr0</a>.</strong></p>
-  <p>💬 Ask me about microservices, automations, deployments, and infra.</p>
+  <p><em>💬 Ask me about microservices, automations, deployments, and infra.</em></p>
   <p>😃 Write less, do more. Interested in Cyber Security.</p>
+  <p><u>😃 Write less, do more. Interested in Cyber Security.</u></p>
+
   <p>😍 I love playing CTFs, currently playing under team <a href="https://github.com/DarkArmy-ctf">DarkArmy</a></p>
   <p>⚡ Fun fact **There are 24 hours in a day?**</p>
   <img src="https://media.giphy.com/media/xThtama8b8ZGtnMeuQ/giphy.gif" width="30">

@@ -7,10 +7,8 @@
 <div align="center">
   <p><strong>📝 Connect with me Telegram <a href="https://t.me/k4t3pr0">https://t.me/k4t3pr0</a>.</strong></p>
   <p><em>💬 Ask me about microservices, automations, deployments, and infra.</em></p>
-  <p>😃 Write less, do more. Interested in Cyber Security.</p>
   <p><u>😃 Write less, do more. Interested in Cyber Security.</u></p>
-
-  <p>😍 I love playing CTFs, currently playing under team <a href="https://github.com/DarkArmy-ctf">DarkArmy</a></p>
+  <p><strong><em>😍 I love playing CTFs, currently playing under team <a href="https://github.com/DarkArmy-ctf">DarkArmy</a></em></strong></p>
   <p>⚡ Fun fact **There are 24 hours in a day?**</p>
   <img src="https://media.giphy.com/media/xThtama8b8ZGtnMeuQ/giphy.gif" width="30">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.k4t3pr0">

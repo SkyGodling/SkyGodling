@@ -11,6 +11,7 @@
   <p>😍 I love playing CTFs, currently playing under team <a href="https://github.com/DarkArmy-ctf">DarkArmy</a></p>
   <p>⚡ Fun fact **There are 24 hours in a day?**</p>
   <img src="https://media.giphy.com/media/xThtama8b8ZGtnMeuQ/giphy.gif" width="30">
+  <span>Lượt truy cập</span>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.k4t3pr0">
 </div>
 

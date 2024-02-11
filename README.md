@@ -22,9 +22,6 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k4t3pr0&theme=dark">
-</div>
-
-<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k4t3pr0&theme=dark">
 </div>
 

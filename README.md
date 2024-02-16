@@ -13,7 +13,7 @@
 </div>
 <div align="center">
   
-## **Some of my boring stuffs**
+## <img src="https://media.giphy.com/media/xThtama8b8ZGtnMeuQ/giphy.gif" width="30">**Some of my boring stuffs**
   
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|

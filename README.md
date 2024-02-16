@@ -9,7 +9,7 @@
   <p><em>💬 Ask me about microservices, automations, deployments, and infra.</em></p>
   <p style="color: blue;">😃 Write less, do more. Interested in Cyber Security.</p>
   <p><strong>😍<em> I love playing CTFs, currently playing under team <a href="https://github.com/DarkArmy-ctf">DarkArmy</a></em></strong></p>
-  <p><strong><em>⚡ Fun fact <span style="text-decoration: underline;">There are 24 hours in a day?</span></em></strong> <img src="https://komarev.com/ghpvc/?username=k4t3pr0"> </p>  
+  <p><strong><em>⚡ Fun fact <span style="text-decoration: underline;">There are 24 hours in a day?</span></em></strong> <img src="https://komarev.com/ghpvc/?username=k4t3pr0"> ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.k4t3pr0) </p>  
 </div>
 <div align="center">
   

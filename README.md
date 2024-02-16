@@ -15,7 +15,7 @@
 </div>
 <div align="center">
   
-**Some of my boring stuffs**
+## **Some of my boring stuffs**
   
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|

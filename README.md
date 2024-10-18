@@ -13,7 +13,7 @@
 </div>
 <div align="center">
 
-<div align="right">
+<div align="left">
   <p>Engaged in mastering the practices of cyber threat hunting and incident response for safeguarding real systems effectively.</p>
   <p>- Malware Analyst:</p> 
   <p>+ Analysie malwares to understand malware’ behaviours, IOCs,… to identify different malware types and families.</p>
@@ -24,7 +24,7 @@
   <p>+ Deliver hunting tools, features and programs to effectively hunt for security threats and vulnerabilities.</p>
   <p>+ Investigate and mitigate security incidents by performing digital forensics to promptly contain the attack.</p>
   <p>+ Provide insights on security practices and organization standards to improve security operations.</p>
-<div align="right">
+<div align="left">
 </div>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k4t3pr0&theme=dark">

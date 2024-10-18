@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <p><em>💬 Cyber Threat Hunter & Incident Responder.</em></p>
   <p><strong><em>⚡ Fun fact <span style="text-decoration: underline;">There are 24 hours in a day?</span></em></strong></p>  
 </div>
 

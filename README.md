@@ -4,7 +4,7 @@
 
 <div align="center">
   <p><em>💬 Cyber Threat Hunter & Incident Responder.</em></p>
-  <p><strong><em>⚡ Fun fact <span style="text-decoration: underline;">There are 24 hours in a day?</span></em></strong> <img src="https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.k4t3pr0" alt="visitor badge"/> </p>  
+  <p><strong><em>⚡ Fun fact <span style="text-decoration: underline;">There are 24 hours in a day?</span></em></strong></p>  
 </div>
 
  <div align="left"> 

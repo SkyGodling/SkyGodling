@@ -8,6 +8,8 @@
   <p><strong><em>⚡ Fun fact <span style="text-decoration: underline;">There are 24 hours in a day?</span></em></strong> <img src="https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.k4t3pr0" alt="visitor badge"/> </p>  
 </div>
 <div align="center">
+
+ <div align="left"> 
 <h1>Cyber Threat Hunting and Incident Response</h1>
 
 <p>Engaged in mastering the practices of cyber threat hunting and incident response for safeguarding real systems effectively.</p>
@@ -54,24 +56,8 @@
   </li>
   <li>Provide insights on security practices and organizational standards to improve security operations.</li>
 </ul>
-
-<h2>How to Use</h2>
-
-<ol>
-  <li>Clone the repository:
-    <pre><code>git clone https://github.com/username/repo-name.git</code></pre>
-  </li>
-  <li>Navigate to the project directory:
-    <pre><code>cd repo-name</code></pre>
-  </li>
-  <li>Follow the setup instructions to start working with the tools and scripts provided.</li>
-</ol>
-
-<h2>Contributions</h2>
-
-<p>We welcome contributions! Please create a pull request or open an issue to suggest improvements or report bugs.</p>
-
-
+<div align="left">
+  
 <div align="left">
   <p>Engaged in mastering the practices of cyber threat hunting and incident response for safeguarding real systems effectively.</p>
   <p>- Malware Analyst:</p> 

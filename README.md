@@ -14,16 +14,16 @@
 <div align="center">
 
 <div align="right">
-Engaged in mastering the practices of cyber threat hunting and incident response for safeguarding real systems effectively.
-- Malware Analyst: 
-+ Analysie malwares to understand malware’ behaviours, IOCs,… to identify different malware types and families.
-+ Simulate attacks based on techniques outlined in the MITRE ATT&CK framework to assess and improve security defenses.
-- Threat Hunter & Incident Responder
-+ Monitor, detect and response to security incidents within organization’s infrasture, particularly within the SOC environment.
-+ Conduct threat hunting activities to proactively identify potential security threats and vulnerabilities
-+ Deliver hunting tools, features and programs to effectively hunt for security threats and vulnerabilities.
-+ Investigate and mitigate security incidents by performing digital forensics to promptly contain the attack.
-+ Provide insights on security practices and organization standards to improve security operations.
+  <p>Engaged in mastering the practices of cyber threat hunting and incident response for safeguarding real systems effectively.</p>
+  <p>- Malware Analyst:</p> 
+  <p>+ Analysie malwares to understand malware’ behaviours, IOCs,… to identify different malware types and families.</p>
+  <p>+ Simulate attacks based on techniques outlined in the MITRE ATT&CK framework to assess and improve security defenses.</p>
+  <p>- Threat Hunter & Incident Responder</p>
+  <p>+ Monitor, detect and response to security incidents within organization’s infrasture, particularly within the SOC environment.</p>
+  <p>+ Conduct threat hunting activities to proactively identify potential security threats and vulnerabilities</p>
+  <p>+ Deliver hunting tools, features and programs to effectively hunt for security threats and vulnerabilities.</p>
+  <p>+ Investigate and mitigate security incidents by performing digital forensics to promptly contain the attack.</p>
+  <p>+ Provide insights on security practices and organization standards to improve security operations.</p>
 <div align="right">
 </div>
 <div align="center">

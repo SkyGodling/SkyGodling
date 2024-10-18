@@ -3,14 +3,12 @@
 </div>
 
 <div align="center">
-  <p><strong>📝 Connect with me Telegram <a href="https://t.me/k4t3pr0">https://t.me/k4t3pr0</a>.</strong></p>
   <p><em>💬 Cyber Threat Hunter & Incident Responder.</em></p>
   <p><strong><em>⚡ Fun fact <span style="text-decoration: underline;">There are 24 hours in a day?</span></em></strong> <img src="https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.k4t3pr0" alt="visitor badge"/> </p>  
 </div>
-<div align="center">
 
  <div align="left"> 
-<h3>Cyber Threat Hunting and Incident Response</h3>
+<h3>💬 Cyber Threat Hunting and Incident Response.</h3>
 
 <h4>Engaged in mastering the practices of cyber threat hunting and incident response for safeguarding real systems effectively.</h4>
 
@@ -56,7 +54,7 @@
   </li>
   <li>Provide insights on security practices and organizational standards to improve security operations.</li>
 </ul>
-<div align="left">
+</div>
 
 </div>
 <div align="center">

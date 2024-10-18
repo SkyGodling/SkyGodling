@@ -17,7 +17,7 @@
 <ul>
   <li>🔍 Analyze malwares to understand:
     <ul>
-      <li>🔸 Malware behaviors</li>
+      🔸<li>🔸 Malware behaviors</li>
       <li>🔸 Indicators of Compromise (IOCs)</li>
       <li>🔸 Different malware types and families</li>
     </ul>
@@ -48,7 +48,7 @@
   <li>🔍 Investigate and mitigate security incidents by:
     <ul>
       <li>🔸 Performing digital forensics</li>
-      <li>🔸Promptly containing attacks</li>
+      <li>🔸 Promptly containing attacks</li>
     </ul>
   </li>
   <li>🔍 Provide insights on security practices and organizational standards to improve security operations.</li>

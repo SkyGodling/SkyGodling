@@ -12,7 +12,19 @@
   <p><strong><em>⚡ Fun fact <span style="text-decoration: underline;">There are 24 hours in a day?</span></em></strong> <img src="https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.k4t3pr0" alt="visitor badge"/> </p>  
 </div>
 <div align="center">
-  
+
+<div align="right">
+Engaged in mastering the practices of cyber threat hunting and incident response for safeguarding real systems effectively.
+- Malware Analyst: 
++ Analysie malwares to understand malware’ behaviours, IOCs,… to identify different malware types and families.
++ Simulate attacks based on techniques outlined in the MITRE ATT&CK framework to assess and improve security defenses.
+- Threat Hunter & Incident Responder
++ Monitor, detect and response to security incidents within organization’s infrasture, particularly within the SOC environment.
++ Conduct threat hunting activities to proactively identify potential security threats and vulnerabilities
++ Deliver hunting tools, features and programs to effectively hunt for security threats and vulnerabilities.
++ Investigate and mitigate security incidents by performing digital forensics to promptly contain the attack.
++ Provide insights on security practices and organization standards to improve security operations.
+<div align="right">
 </div>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k4t3pr0&theme=dark">

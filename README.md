@@ -8,18 +8,69 @@
   <p><strong><em>⚡ Fun fact <span style="text-decoration: underline;">There are 24 hours in a day?</span></em></strong> <img src="https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.k4t3pr0" alt="visitor badge"/> </p>  
 </div>
 <div align="center">
-Engaged in mastering the practices of cyber threat hunting and incident response for safeguarding real systems effectively.
+<h1>Cyber Threat Hunting and Incident Response</h1>
 
-- Malware Analyst:
-  + Analyze malwares to understand malware behaviors, IOCs,… to identify different malware types and families.
-  + Simulate attacks based on techniques outlined in the MITRE ATT&CK framework to assess and improve security defenses.
+<p>Engaged in mastering the practices of cyber threat hunting and incident response for safeguarding real systems effectively.</p>
 
-- Threat Hunter & Incident Responder:
-  + Monitor, detect and respond to security incidents within the organization’s infrastructure, particularly within the SOC environment.
-  + Conduct threat hunting activities to proactively identify potential security threats and vulnerabilities.
-  + Deliver hunting tools, features, and programs to effectively hunt for security threats and vulnerabilities.
-  + Investigate and mitigate security incidents by performing digital forensics to promptly contain the attack.
-  + Provide insights on security practices and organizational standards to improve security operations.
+<h2>Roles and Responsibilities</h2>
+
+<h3>Malware Analyst:</h3>
+<ul>
+  <li>Analyze malwares to understand:
+    <ul>
+      <li>Malware behaviors</li>
+      <li>Indicators of Compromise (IOCs)</li>
+      <li>Different malware types and families</li>
+    </ul>
+  </li>
+  <li>Simulate attacks based on techniques outlined in the MITRE ATT&CK framework to:
+    <ul>
+      <li>Assess security defenses</li>
+      <li>Improve organizational security posture</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>Threat Hunter & Incident Responder:</h3>
+<ul>
+  <li>Monitor, detect, and respond to security incidents within the organization’s infrastructure, particularly within the SOC environment.</li>
+  <li>Conduct threat hunting activities to proactively identify:
+    <ul>
+      <li>Potential security threats</li>
+      <li>Vulnerabilities in the system</li>
+    </ul>
+  </li>
+  <li>Deliver hunting tools, features, and programs to effectively:
+    <ul>
+      <li>Hunt for security threats</li>
+      <li>Address vulnerabilities</li>
+    </ul>
+  </li>
+  <li>Investigate and mitigate security incidents by:
+    <ul>
+      <li>Performing digital forensics</li>
+      <li>Promptly containing attacks</li>
+    </ul>
+  </li>
+  <li>Provide insights on security practices and organizational standards to improve security operations.</li>
+</ul>
+
+<h2>How to Use</h2>
+
+<ol>
+  <li>Clone the repository:
+    <pre><code>git clone https://github.com/username/repo-name.git</code></pre>
+  </li>
+  <li>Navigate to the project directory:
+    <pre><code>cd repo-name</code></pre>
+  </li>
+  <li>Follow the setup instructions to start working with the tools and scripts provided.</li>
+</ol>
+
+<h2>Contributions</h2>
+
+<p>We welcome contributions! Please create a pull request or open an issue to suggest improvements or report bugs.</p>
+
 
 <div align="left">
   <p>Engaged in mastering the practices of cyber threat hunting and incident response for safeguarding real systems effectively.</p>

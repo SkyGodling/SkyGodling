@@ -12,7 +12,12 @@
 <h4>🚧 Engaged in mastering the practices of cyber threat hunting and incident response for safeguarding real systems effectively.</h4>
 
 <h3>🎓 Roles and Responsibilities</h3>
-
+<style>
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+</style>
 <h3>Malware Analyst:</h3>
 <ul>
   <li>🔍 Analyze malwares to understand:
@@ -49,12 +54,6 @@
     <ul>
       <li>🔸 Performing digital forensics</li>
       <li>🔸 Promptly containing attacks</li>
-    </ul>
-  </li>
-  <li>Investigate and mitigate security incidents by:
-    <ul>
-      <li>Performing digital forensics</li>
-      <li>Promptly containing attacks</li>
     </ul>
   </li>
   <li>🔍 Provide insights on security practices and organizational standards to improve security operations.</li>

@@ -2,13 +2,9 @@
   <img src="https://github.com/k4t3pr0/k4t3pr0/blob/main/who_am_I__!_Black.png" width="250">
 </div>
 
-### <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndsbHBxb29jdDllejd4NjBhOTZmdXdsYXZpc2Z6cWd0cmY5dTh0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50">I'm Hung Anh - also known as k4t3pr0</div>
-
 <div align="center">
   <p><strong>📝 Connect with me Telegram <a href="https://t.me/k4t3pr0">https://t.me/k4t3pr0</a>.</strong></p>
-  <p><em>💬 Ask me about microservices, automations, deployments, and infra.</em></p>
-  <p style="color: blue;">😃 Write less, do more. Interested in Cyber Security.</p>
-  <p><strong>😍<em> I love playing CTF</em></strong></p>
+  <p><em>💬 Cyber Threat Hunter & Incident Responder.</em></p>
   <p><strong><em>⚡ Fun fact <span style="text-decoration: underline;">There are 24 hours in a day?</span></em></strong> <img src="https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.k4t3pr0" alt="visitor badge"/> </p>  
 </div>
 <div align="center">

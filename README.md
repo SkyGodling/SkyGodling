@@ -2,11 +2,6 @@
   <img src="https://github.com/k4t3pr0/k4t3pr0/blob/main/who_am_I__!_Black.png" width="250">
 </div>
 
-<a href="https://tryhackme.com/p/536832">
-  <img src="[https://tryhackme.com/api/badge/generate/536832](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=536832)" alt="TryHackMe Badge">
-</a>
-
-
 <div align="center">
   <p><strong><em>⚡ Fun fact <span style="text-decoration: underline;">There are 24 hours in a day?</span></em></strong></p>  
 </div>

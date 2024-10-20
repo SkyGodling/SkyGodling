@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/k4t3pr0/k4t3pr0/blob/main/who_am_I__!_Black.png" width="250">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=536832" style='border:none;'></iframe>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/hunganhprox.png" alt="Your Image Badge" />
 </div>
 
 <div align="center">

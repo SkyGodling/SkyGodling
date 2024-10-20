@@ -3,7 +3,7 @@
 </div>
 
 <a href="https://tryhackme.com/p/536832">
-  <img src="https://tryhackme.com/api/badge/generate/536832" alt="TryHackMe Badge">
+  <img src="[https://tryhackme.com/api/badge/generate/536832](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=536832)" alt="TryHackMe Badge">
 </a>
 
 

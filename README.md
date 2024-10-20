@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://github.com/k4t3pr0/k4t3pr0/blob/main/who_am_I__!_Black.png" width="250">
- <img src="https://tryhackme-badges.s3.amazonaws.com/hunganhprox.png" alt="Your Image Badge" />
 </div>
-
+<div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/hunganhprox.png" alt="Your Image Badge" />
+</div>
 <div align="center">
   <p><strong><em>⚡ Fun fact <span style="text-decoration: underline;">There are 24 hours in a day?</span></em></strong></p>  
 </div>

@@ -4,10 +4,6 @@
 
 # Hi there 👋, I'm skysaints01
 
-<div align="center">
-  <p><strong><em>⚡ Fun fact <span style="text-decoration: underline;">There are 24 hours in a day?</span></em></strong></p>  
-</div>
-
 ## 💬 Ask me about
 
  <div align="left"> 

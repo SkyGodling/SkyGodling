@@ -55,6 +55,11 @@
 </ul>
 </div>
 
+## 📫 How to reach me
+- GitHub: [skysaints01](https://github.com/skysaints01)
+## ⚡ Fun fact
+- There are 24 hours in a day?
+
 </div>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skysaints&theme=dark">

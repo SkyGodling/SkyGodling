@@ -2,7 +2,7 @@
   <img src="https://github.com/skyalliance/skyalliance/blob/main/who_am_I__!_Black.png" width="250">
 </div>
 
-# Hi there 👋, I'm skyalliance
+# Hi there 👋, I'm Sky Alliance
 
 ## 💬 Ask me about
 

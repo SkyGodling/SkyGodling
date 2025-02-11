@@ -56,7 +56,7 @@
 </div>
 
 ## 📫 How to reach me
-- GitHub: [SkyGodling01](https://github.com/SkyGodling)
+- GitHub: [SkyGodling](https://github.com/SkyGodling)
 ## ⚡ Fun fact
 - There are 24 hours in a day?
 ## 🔭 Projects I'm working on
